@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 )
 
-replace github.com/ggerganov/whisper.cpp/bindings/go => github.com/AnyCPU/whisper.cpp/bindings/go dev
+replace github.com/ggerganov/whisper.cpp/bindings/go => github.com/AnyCPU/whisper.cpp/bindings/go v0.0.1-rc.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
