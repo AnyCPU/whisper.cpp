@@ -7,7 +7,7 @@ import (
 	"time"
 
 	// Package imports
-	whisper "github.com/ggerganov/whisper.cpp/bindings/go/pkg/whisper"
+	whisper "github.com/AnyCPU/whisper.cpp/bindings/go/pkg/whisper"
 	wav "github.com/go-audio/wav"
 )
 

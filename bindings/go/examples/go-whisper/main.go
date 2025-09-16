@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 
 	// Packages
-	whisper "github.com/ggerganov/whisper.cpp/bindings/go/pkg/whisper"
+	whisper "github.com/AnyCPU/whisper.cpp/bindings/go/pkg/whisper"
 )
 
 func main() {
