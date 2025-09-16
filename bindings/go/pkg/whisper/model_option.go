@@ -1,6 +1,6 @@
 package whisper
 
-import whisper "github.com/ggerganov/whisper.cpp/bindings/go"
+import whisper "github.com/AnyCPU/whisper.cpp/bindings/go"
 
 type ContextParams = whisper.ContextParams
 
